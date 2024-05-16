@@ -1,0 +1,18 @@
+ /*
+    px - tamanho fixo
+    % - tamanho relativo
+    em - tamanho relativo ao container pai
+    */
+.px{
+   
+    font-size: 30px;
+}
+.porcentagem{
+    font-size: 100%;
+}
+.em{
+    font-size: 20em;
+}
+div{
+    font-size: 60px;
+}

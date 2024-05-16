@@ -1,0 +1,24 @@
+body{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.negrito{
+    font-weight: 100; /*Pode definir de 100 a 900*/
+    /*Para a fonte ficar em negrito*/
+}
+
+.italico{
+    font-style: italic;
+}
+
+.formatacao{
+    text-decoration: underline ;/*adiciona uma linha abaixo da palavra*/
+    /*text-decoration: line-through ; - grifa a palavra ao meio*/
+    /*text-decoration: Overline ; - Adiciona uma linha acima da palavra*/
+    /*Permite aplicar algumas formatações no texto */
+}
+
+.texto{
+    font: bold 40px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
